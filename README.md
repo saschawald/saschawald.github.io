@@ -4,12 +4,20 @@
 
 ### test 3 sharps
 
-
+<div>
+<div  style="float: left">
 <img src="sascha.png"
      alt="Sascha"
      style="float: left; margin-right: 10px;" 
      width="150"
      height="200" /> 
+</div>
+<div>
+Lecturer in Computational Physics
+& Research Associate 
+@ Statistical Physics Group, Coventry University (UK)
+</div>
+</div>
 
 
 work in progress ...
