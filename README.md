@@ -14,7 +14,8 @@
 </div>
 <div>
 
-[Contact details](https://saschawald.github.io/contact.html)
+<a href="https://saschawald.github.io/contact.html">Contact details</a>
+
 
 
 Lecturer in Computational Physics
@@ -23,6 +24,9 @@ Lecturer in Computational Physics
 </div>
 </div>
 
+
+
+[Contact details](https://saschawald.github.io/contact.html)
 
 work in progress ...
 
