@@ -13,6 +13,10 @@
      height="200" /> 
 </div>
 <div>
+
+[Contact details](https://saschawald.github.io/contact.html)
+
+
 Lecturer in Computational Physics
 & Research Associate 
 @ Statistical Physics Group, Coventry University (UK)
