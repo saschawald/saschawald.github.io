@@ -1,15 +1,15 @@
 # Contact details
 
+
+
+
+
 ## Postal address:
 
-**Dr. Sascha Wald**
-
-**Statistical Physics Group**
-
-Centre for Fluid and Complex Systems
-
-Coventry University
-
+**Dr. Sascha Wald**<br>
+**Statistical Physics Group**<br>
+Centre for Fluid and Complex Systems<br>
+Coventry University<br>
 Coventry, England
 
 ---
