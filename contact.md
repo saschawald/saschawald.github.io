@@ -9,8 +9,8 @@
      alt="FCS"
      alt="FCS"
      style="float: left; margin-right: 10px;" 
-     width="75%"
-     height="75%" />
+     width="154"
+     height="174" />
 **Dr. Sascha Wald**<br>
 **Statistical Physics Group**<br>
 Centre for Fluid and Complex Systems<br>
