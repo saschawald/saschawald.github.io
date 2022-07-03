@@ -16,3 +16,8 @@ submitted to J Phys A: Math Theor<br>
 [arXiv:2204.01664](https://arxiv.org/abs/2204.01664)
 
 ---
+
+*Non-equilibrium dynamics of the open quantum O(n)-model with non-Markovian noise: exact results*<br>
+**SW**, M Henkel, A Gambassi<br>
+[J Stat Mech (2021):103105](https://iopscience.iop.org/article/10.1088/1742-5468/ac25f6)<br>
+[arXiv:2106.08237](\href{https://arxiv.org/abs/2106.08237)
