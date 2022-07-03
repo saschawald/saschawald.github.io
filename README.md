@@ -1,6 +1,6 @@
 # Welcome to my webpage
 
-## test two sharps
+## this page is work in progress
 
 ### test 3 sharps
 
@@ -29,9 +29,28 @@ Lecturer in Computational Physics
 - [Contact details](https://saschawald.github.io/contact.html)
 - [Publications](https://saschawald.github.io/publications.html)
 
-work in progress ...
 
 
+Sascha is a *theoretical physicist* with a great interest in the description of non-equilibrium effects 
+in complex systems. Strong interactions in these systems lead to collective effects that are described 
+by statistical mechanics. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eu sapien sit amet lorem rutrum tincidunt sed id risus. In quis metus vel libero sodales varius. Donec augue metus, consectetur sit amet congue vitae, dictum id tellus. Mauris vulputate sollicitudin sodales. Curabitur sem magna, ullamcorper a molestie eget, tristique nec purus. Proin non egestas justo. Nam accumsan rutrum accumsan. Aliquam fermentum lobortis sapien, egestas tincidunt magna vulputate et. Aenean et ultricies mauris, nec luctus nulla. Aliquam placerat sem turpis, nec convallis eros condimentum id. Vivamus suscipit, odio non vulputate maximus, ex ipsum mattis quam, a finibus turpis libero ac neque. Integer venenatis pulvinar tellus sed facilisis.
+My work focuses on describing such effects that are connected to
+
+- thermalisation of quantum systems
+- entanglement in interacting systems
+- non-equilibrium quantum phase transitions
+- quantum metrology
+- network dynamics
+- machine learning and quantum computing
+
+Currently, I am a Lecturer and Research Associate at Coventry University.
+
+
+<img src="FCS1.png"
+     alt="FCS"
+     style="float: left; margin-right: 10px;" 
+     width="150"
+     height="200" />
+</div>
 
