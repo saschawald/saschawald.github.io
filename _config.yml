@@ -1,3 +1,13 @@
 theme: jekyll-theme-tactile
 title: Dr. Sascha Wald's homepage
-description: Bookmark this to keep an eye on my project updates!
+author: Dr. Sascha Wald
+avatar: ./FCS1.png
+round-avatar: true
+
+social-network-links:
+  email: "sascha.wald@coventry.ac.uk"
+  facebook: deanattali
+  github: saschawald
+  ORCID: 0000-0003-1013-2130
+  google-scholar: saschasebastianwald@gmail.com
+
