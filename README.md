@@ -52,5 +52,5 @@ Currently, I am a Lecturer and Research Associate at Coventry University.
      style="float: left; margin-right: 10px;" 
      width="150"
      height="200" />
-</div>
+
 
