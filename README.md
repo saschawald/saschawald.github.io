@@ -4,9 +4,9 @@
 
 
 
-[Publications](https://saschawald.github.io/publications.html) | 
-[Current Research](https://saschawald.github.io/research.html) | 
-[Contact details](https://saschawald.github.io/contact.html) | 
+[Publications](https://saschawald.github.io/publications.html) - 
+[Current Research](https://saschawald.github.io/research.html) - 
+[Contact details](https://saschawald.github.io/contact.html) 
 
 
 <div>
@@ -18,6 +18,9 @@
      height="200" /> 
 </div>
 <div>
+</div>
+</div>
+
 I am a **Lecturer in Computational Physics** and a
 **Research Associate** in the Statistical Physics Group
 at the Centre for Fluid and Complex Systems at Coventry
@@ -26,11 +29,6 @@ University.
 
 
 
-Lecturer in Computational Physics
-& Research Associate 
-@ Statistical Physics Group, Coventry University (UK)
-</div>
-</div>
 
 ---
 
