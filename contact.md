@@ -4,7 +4,7 @@
 
 
 
-- **Postal address**
+### Postal address
 <img src="FCS1.png"
      alt="FCS"
      alt="FCS"
@@ -15,11 +15,13 @@
 **Statistical Physics Group**<br>
 Centre for Fluid and Complex Systems<br>
 Coventry University<br>
-Coventry, England
+Coventry, England<br>
+<br>
+<br>
 
 
 ---
 
 
-- **E-mail**
+### E-mail
 sascha[dot]wald[at]coventry[dot]ac[dot]uk
