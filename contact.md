@@ -4,7 +4,7 @@
 
 
 
-## Postal address
+- **Postal address**
 <img src="FCS1.png"
      alt="FCS"
      alt="FCS"
@@ -21,5 +21,5 @@ Coventry, England
 ---
 
 
-## E-mail
+- **E-mail**
 sascha[dot]wald[at]coventry[dot]ac[dot]uk
