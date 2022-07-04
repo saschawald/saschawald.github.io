@@ -2,7 +2,11 @@
 
 ## this page is work in progress
 
-### test 3 sharps
+<a href="https://saschawald.github.io/contact.html">Contact details</a>
+
+
+[Publications](https://saschawald.github.io/publications.html)
+[Contact details](https://saschawald.github.io/contact.html)
 
 <div>
 <div  style="float: left">
@@ -13,8 +17,11 @@
      height="200" /> 
 </div>
 <div>
+I am a **Lecturer in Computational Physics** and a
+**Research Associate** in the Statistical Physics Group
+at the Centre for Fluid and Complex Systems at Coventry
+University.
 
-<a href="https://saschawald.github.io/contact.html">Contact details</a>
 
 
 
@@ -26,8 +33,6 @@ Lecturer in Computational Physics
 
 ---
 
-- [Contact details](https://saschawald.github.io/contact.html)
-- [Publications](https://saschawald.github.io/publications.html)
 
 
 
