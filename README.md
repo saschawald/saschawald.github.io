@@ -2,11 +2,12 @@
 
 ## this page is work in progress
 
-<a href="https://saschawald.github.io/contact.html">Contact details</a>
 
 
-[Publications](https://saschawald.github.io/publications.html)
-[Contact details](https://saschawald.github.io/contact.html)
+[Publications](https://saschawald.github.io/publications.html) | 
+[Current Research](https://saschawald.github.io/research.html) | 
+[Contact details](https://saschawald.github.io/contact.html) | 
+
 
 <div>
 <div  style="float: left">
