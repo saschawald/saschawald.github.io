@@ -1,6 +1,6 @@
 # Welcome to my webpage
 
-## this page is work in progress
+## Dr. rer. nat. Sascha Wald
 
 
 
@@ -8,6 +8,8 @@
 [Current Research](https://saschawald.github.io/research.html) - 
 [Contact details](https://saschawald.github.io/contact.html) 
 
+
+---
 
 <div>
 <div  style="float: left">
@@ -23,11 +25,10 @@
 
 I am a **Lecturer in Computational Physics** and a
 **Research Associate** in the Statistical Physics Group
-at the Centre for Fluid and Complex Systems at Coventry
+at the **Centre for Fluid and Complex Systems** at Coventry
 University.
 
-
-
+Broadly, my interest revolves around **collective phenomena** and **quantum systems**.
 
 
 ---
@@ -35,12 +36,8 @@ University.
 
 
 
-Sascha is a *theoretical physicist* with a great interest in the description of non-equilibrium effects 
-in complex systems. Strong interactions in these systems lead to collective effects that are described 
-by statistical mechanics. 
 
-My work focuses on describing such effects that are connected to
-
+- new states of matter
 - thermalisation of quantum systems
 - entanglement in interacting systems
 - non-equilibrium quantum phase transitions
