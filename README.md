@@ -16,8 +16,8 @@
 <img src="sascha-wide.jpg"
      alt="Sascha"
      style="float: left; margin-right: 10px;" 
-     width="500"
-     height="375" /> 
+     width="600"
+     height="450" /> 
 </div>
 <div>
 </div>
