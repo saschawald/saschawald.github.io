@@ -16,13 +16,14 @@
 <img src="sascha-wide.jpg"
      alt="Sascha"
      style="float: left; margin-right: 10px;" 
-     width="666"
-     height="500" /> 
+     width="640"
+     height="480" /> 
 </div>
 <div>
 </div>
 </div>
 
+                                                 
 I am a **Lecturer in Computational Physics** and a
 **Research Associate** in the Statistical Physics Group
 at the **Centre for Fluid and Complex Systems** at Coventry
