@@ -13,7 +13,7 @@
 
 <div>
 <div  style="float: left">
-<img src="sascha-wide.png"
+<img src="sascha-wide.jpg"
      alt="Sascha"
      style="float: left; margin-right: 10px;" 
      width="4000"
