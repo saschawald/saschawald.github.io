@@ -23,10 +23,9 @@
 </div>
 </div>
 
-<pre>
-
+ <br />
 ---
-
+ <br />
                                                  
 I am a **Lecturer in Computational Physics** and a
 **Research Associate** in the Statistical Physics Group
@@ -35,8 +34,7 @@ University.
 
 Broadly, my interest revolves around **collective phenomena** and **quantum systems**.
 
-<\pre>
-
+ <br />
 ---
 
 
