@@ -19,20 +19,32 @@
      width="640"
      height="480" /> 
 </div>
-<div>
 </div>
-</div>
+
+&nbsp;
+&nbsp;
+&nbsp;
 
  <br />
 ---
  <br />
-                                                 
+      
+
+&nbsp;
+&nbsp;
+&nbsp;
+                                           
 I am a **Lecturer in Computational Physics** and a
 **Research Associate** in the Statistical Physics Group
 at the **Centre for Fluid and Complex Systems** at Coventry
 University.
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 Broadly, my interest revolves around **collective phenomena** and **quantum systems**.
+
 
  <br />
 ---
