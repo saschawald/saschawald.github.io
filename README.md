@@ -36,8 +36,7 @@
 &nbsp;
 &nbsp;
                                            
-I am a **Lecturer in Computational Physics** and a
-**Research Associate** in the Statistical Physics Group
+I am an **Assistant Professor** in the Statistical Physics Group
 at the **Centre for Fluid and Complex Systems** at Coventry
 University.
 
