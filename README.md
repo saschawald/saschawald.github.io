@@ -14,11 +14,11 @@
 
 <div>
 <div  style="float: left">
-<img src="image10.png"
+<img src="image11.png"
      alt="Sascha"
      style="float: left; margin-right: 10px;" 
-     width="166"
-     height="414" /> 
+     width="415"
+     height="875" /> 
 </div>
 </div>
 
