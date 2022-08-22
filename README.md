@@ -17,8 +17,8 @@
 <img src="image11.png"
      alt="Sascha"
      style="float: left; margin-right: 10px;" 
-     width="156"
-     height="328" /> 
+     width="234"
+     height="492" /> 
 </div>
 </div>
 
