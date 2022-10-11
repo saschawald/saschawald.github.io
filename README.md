@@ -31,7 +31,7 @@ The common feature these examples share is that they represent systems that are 
 a multitude of individual constituents that come together to form more than just the 
 sum of the parts.
 
-I am particularly interested in collective properties in **quantum systems** and I study these 
+I am particularly interested in collective properties of **quantum systems** and I study these 
 **complex quantum systems in and out of equilibrium**.
 
  <br />
