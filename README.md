@@ -22,15 +22,6 @@
 </div>
 </div>
 
-.
-&nbsp;
-&nbsp;
-&nbsp;
-
- <br />
----
- <br />
-      
 I am a **theoretical physicist** interested in collective properties of **complex systems**.
 
 These systems are inspiring because of the variety of phenomena complex systems can describe, 
@@ -45,6 +36,11 @@ sum of the parts.
 ---
  <br />
 
+
+.
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 
