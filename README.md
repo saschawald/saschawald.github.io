@@ -31,7 +31,24 @@
 ---
  <br />
       
-I am a theoretical physicist interested in collective properties of matter. My interest in this
+I am a **theoretical physicist** interested in collective properties of **complex systems**.
+
+These systems are inspiring because of the variety of phenomena complex systems can describe, 
+reaching from migrating birds to sozialising humans, from the global climate to the human brain
+and even from city infrastructures to quantum computers.
+
+The common denominator these examples share is that they represent systems that are made of 
+a multitude of individual constituents that come together to form more than just the 
+sum of the parts.
+
+ <br />
+---
+ <br />
+
+
+
+
+My interest in this
 discipline comes from the fact that complex systems that are made up from a macroscopic number 
 of constituents may show significantly different behaviour from ...
 
