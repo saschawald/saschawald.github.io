@@ -31,14 +31,18 @@
 ---
  <br />
       
+I am a theoretical physicist interested in collective properties of matter. My interest in this
+discipline comes from the fact that complex systems that are made up from a macroscopic number 
+of constituents may show significantly different behaviour from ...
+
+[More Is Different](https://www.science.org/doi/10.1126/science.177.4047.393) by PW Anderson...
 
 &nbsp;
 &nbsp;
 &nbsp;
                                            
-I am an **Assistant Professor** in the Statistical Physics Group
-at the **Centre for Fluid and Complex Systems** at Coventry
-University.
+Currently I hold a position as **Assistant Professor** in the Statistical Physics Group
+at the **Centre for Fluid and Complex Systems** at Coventry University.
 
 &nbsp;
 &nbsp;
@@ -62,7 +66,6 @@ Broadly, my interest revolves around **collective phenomena** and **quantum syst
 - network dynamics
 - machine learning and quantum computing
 
-Currently, I am a Lecturer and Research Associate at Coventry University.
 
 
 <img src="FCS1.png"
