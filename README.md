@@ -66,12 +66,3 @@ Broadly, my interest revolves around **collective phenomena** and **quantum syst
 - network dynamics
 - machine learning and quantum computing
 
-
-
-<img src="FCS1.png"
-     alt="FCS"
-     style="float: left; margin-right: 10px;" 
-     width="150"
-     height="200" />
-
-
