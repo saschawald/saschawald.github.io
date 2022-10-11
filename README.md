@@ -27,10 +27,12 @@ I am a **theoretical physicist** interested in collective properties of **comple
 These systems are inspiring because of the variety of phenomena complex systems can describe, 
 reaching from migrating birds to sozialising humans, from the global climate to the human brain
 and even from city infrastructures to quantum computers.
-
-The common denominator these examples share is that they represent systems that are made of 
+The common feature these examples share is that they represent systems that are made of 
 a multitude of individual constituents that come together to form more than just the 
 sum of the parts.
+
+I am particularly interested in collective properties in **quantum systems** and I study these 
+**complex quantum systems in and out of equilibrium**.
 
  <br />
 ---
@@ -43,10 +45,6 @@ sum of the parts.
 &nbsp;
 
 
-
-My interest in this
-discipline comes from the fact that complex systems that are made up from a macroscopic number 
-of constituents may show significantly different behaviour from ...
 
 [More Is Different](https://www.science.org/doi/10.1126/science.177.4047.393) by PW Anderson...
 
@@ -61,7 +59,6 @@ at the **Centre for Fluid and Complex Systems** at Coventry University.
 &nbsp;
 &nbsp;
 
-Broadly, my interest revolves around **collective phenomena** and **quantum systems**.
 
 
  <br />
