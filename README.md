@@ -1,5 +1,3 @@
-# Welcome to my webpage
-
 ## Dr. rer. nat. Sascha Wald
 
 
