@@ -2,6 +2,12 @@
 
 ## Dr. rer. nat. Sascha Wald
 
+### ---
+**NEWS**: Our new preprint is available:
+[arXiv:2211.01923](https://arxiv.org/abs/2211.01923)
+### ---
+
+
 
 
 [Publications](https://saschawald.github.io/publications.html) - 
