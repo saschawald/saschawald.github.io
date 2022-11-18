@@ -6,6 +6,8 @@
  
 **NEWS**:
 
+There is a fully funded PhD position to work with me on **Universal Aspects of Non-Equilibrium Quantum Dynamics**. Please get in touch with me if you are interested.
+
 Our new preprint is available:
 [arXiv:2211.01923](https://arxiv.org/abs/2211.01923)
 
