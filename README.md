@@ -53,40 +53,8 @@ I am particularly interested in collective properties of **quantum systems** and
  <br />
 
 
+
 .
 &nbsp;
 &nbsp;
 &nbsp;
-
-
-
-[More Is Different](https://www.science.org/doi/10.1126/science.177.4047.393) by PW Anderson...
-
-&nbsp;
-&nbsp;
-&nbsp;
-                                           
-Currently I hold a position as **Assistant Professor** in the Statistical Physics Group
-at the **Centre for Fluid and Complex Systems** at Coventry University.
-
-&nbsp;
-&nbsp;
-&nbsp;
-
-
-
- <br />
----
-
-
-
-
-
-- new states of matter
-- thermalisation of quantum systems
-- entanglement in interacting systems
-- non-equilibrium quantum phase transitions
-- quantum metrology
-- network dynamics
-- machine learning and quantum computing
-
