@@ -7,6 +7,13 @@
 ### 2022
 ---
 
+*Stochastic Representation of the Quantum Quartic Oscillator*<br>
+Gennaro Tucci, Stefano De Nicola, **SW**, Andrea Gambassi<br>
+submitted to SciPost<br>
+[arXiv:2211.01923](https://arxiv.org/abs/2211.01923)
+
+---
+
 *Mathematical characterization of private and public immune repertoire sequences*<br>
 T Chou, **SW**, L Böttcher<br>
 submitted to SIAM J Appl Math<br>
