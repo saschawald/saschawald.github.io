@@ -6,10 +6,14 @@
  
 **NEWS**:
 
-There is a fully funded PhD position to work with me on **Universal Aspects of Non-Equilibrium Quantum Dynamics**. Please get in touch with me if you are interested.
+There is a fully funded PhD position to work with me on **Universal Aspects of Non-Equilibrium Quantum Dynamics**. Please get in touch with me if you are interested. The advert can be found 
+[here](https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/universality-in-non-equilibrium-quantum-systems/)
 
-Our new preprint is available:
+
+Recent preprints:
+
 [arXiv:2211.01923](https://arxiv.org/abs/2211.01923)
+[arXiv:2301.09143](https://arxiv.org/abs/2301.09143)
 
 ---
 
