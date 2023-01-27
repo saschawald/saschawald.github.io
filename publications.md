@@ -4,6 +4,13 @@
 ## Dr. Sascha Wald
 
 
+### 2023
+
+*Entanglement gap in 1D long-range quantum spherical models*<br>
+**SW**, R Arias, V Alba<br>
+[arXiv:2301.09143](https://arxiv.org/abs/2301.09143)
+
+
 ### 2022
 ---
 
