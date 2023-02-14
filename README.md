@@ -34,7 +34,7 @@ Recent preprints:
 
 <div>
 <div  style="float: left">
-<img src="image11.png"
+<img src="image.png"
      alt="Sascha"
      style="float: left; margin-right: 10px;" 
      width="195"
