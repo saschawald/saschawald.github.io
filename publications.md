@@ -40,6 +40,7 @@ submitted to SIAM J Appl Math<br>
 *Entanglement dynamics of a hard-core quantum gas during a Joule expansion*<br>
 F Ares, S Scopa, **SW**<br>
 submitted to J Phys A: Math Theor<br>
+[J Phys A: Math Theor 55 (2022):375301](https://iopscience.iop.org/article/10.1088/1751-8121/ac8209)<br>
 [arXiv:2204.01664](https://arxiv.org/abs/2204.01664)
 
 ---
