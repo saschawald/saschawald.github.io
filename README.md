@@ -7,7 +7,9 @@
 ### Navigation
 [Publications](https://saschawald.github.io/publications.html) -
 [Current Research](https://saschawald.github.io/research.html) -
-[Contact details](https://saschawald.github.io/contact.html)
+[Contact details](https://saschawald.github.io/contact.html) -
+[Teaching](https://saschawald.github.io/teaching.html)
+
 
 ---
 
