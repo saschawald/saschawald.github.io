@@ -37,8 +37,8 @@ Recent preprints:
 <img src="image.png"
      alt="Sascha"
      style="float: left; margin-right: 10px;" 
-     width="333"
-     height="444" /> 
+     width="266"
+     height="355" /> 
 </div>
 </div>
 
