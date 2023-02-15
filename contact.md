@@ -11,16 +11,10 @@
      style="float: left; margin-right: 10px;" 
      width="115"
      height="130" />
-**Dr. Sascha Wald**<br>
-
-Assistant Professor<br>
-
+**Dr. Sascha Wald** -- Assistant Professor<br>
 **Statistical Physics Group**<br>
-
 Centre for Fluid and Complex Systems<br>
-
 Coventry University<br>
-
 Coventry, England<br>
 <br>
 <br>
