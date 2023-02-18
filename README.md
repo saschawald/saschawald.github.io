@@ -39,10 +39,16 @@ Recent preprints:
 <img src="image.png"
      alt="Sascha"
      style="float: left; margin-right: 10px;" 
-     width="233"
-     height="311" /> 
+     width="186"
+     height="249" /> 
 </div>
 </div>
+
+[Scholar](https://scholar.google.com/citations?user=yyjlIN0AAAAJ&hl=en)<br>
+[arXiv](https://arxiv.org/a/wald_s_1.html)<br>
+[OrcID](https://orcid.org/0000-0003-1013-2130)
+
+<br>
 
 I am a **theoretical physicist** interested in collective properties of **complex systems**.
 
