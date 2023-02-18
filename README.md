@@ -2,6 +2,11 @@
 
 ## Dr. rer. nat. Sascha Wald
 
+[Scholar](https://scholar.google.com/citations?user=yyjlIN0AAAAJ&hl=en) -
+[arXiv](https://arxiv.org/a/wald_s_1.html) -
+[OrcID](https://orcid.org/0000-0003-1013-2130)
+
+
 ---
 
 ### Navigation
@@ -24,10 +29,8 @@ Fully funded PhD position to work with me on **Universal Aspects of Non-Equilibr
 
 Recent preprints:
 
-[arXiv:2211.01923](https://arxiv.org/abs/2211.01923)
-
-[arXiv:2301.09143](https://arxiv.org/abs/2301.09143)
-
+[arXiv:2211.01923](https://arxiv.org/abs/2211.01923) - 
+[arXiv:2301.09143](https://arxiv.org/abs/2301.09143) -
 [arXiv:2302.05732](https://arxiv.org/abs/2302.05732)
 
 
