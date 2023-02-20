@@ -16,6 +16,7 @@
 </div>
 
 
+<img src="neg_density1-1.png" alt="negativity" title="entanglement negativity" width="150" height="100" /> 
 ...
 
 ## Quantum Walks
