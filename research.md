@@ -10,9 +10,8 @@
 <div  style="float: left">
 <img src="GAP_CROSSING_ALPHA_1-1.png"
      alt="gap1"
-     style="float: left; margin-right: 10px;" 
-     width="186"
-     height="249" />
+     width="1200"
+     height="750" />
 </div>
 </div>
 
