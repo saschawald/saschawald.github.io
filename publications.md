@@ -1,8 +1,9 @@
-[Home](saschawald.github.io)
-
 # Publications
-## Dr. Sascha Wald
 
+## Dr rer nat Sascha Wald
+
+
+[Home](saschawald.github.io)
 
 ---
 

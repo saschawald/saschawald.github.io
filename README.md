@@ -1,6 +1,6 @@
 # Welcome to my Homepage
 
-## Dr. rer. nat. Sascha Wald
+## Dr rer nat Sascha Wald
 
 [Scholar](https://scholar.google.com/citations?user=yyjlIN0AAAAJ&hl=en) -
 [arXiv](https://arxiv.org/a/wald_s_1.html) -
@@ -19,10 +19,14 @@
 ---
 
  
-## NEWS
+## Work with me
 
-Fully funded PhD position to work with me on **Universal Aspects of Non-Equilibrium Quantum Dynamics**. Please get in touch with me if you are interested. The advert can be found 
-[here](https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/universality-in-non-equilibrium-quantum-systems/)
+Are you interested in quantum technologies and properties of complex quantum systems? 
+Then reach out to me - I am always happy to discuss new collaborations.
+
+Current positions:
+
+[PhD - Universal Aspects of Non-Equilibrium Quantum Dynamics](https://www.coventry.ac.uk/research/research-opportunities/research-students/research-studentships/universality-in-non-equilibrium-quantum-systems/)
 
 
 ---
@@ -36,6 +40,7 @@ Fully funded PhD position to work with me on **Universal Aspects of Non-Equilibr
 
 ---
 
+## About me
 
 <div>
 <div  style="float: left">
@@ -59,11 +64,28 @@ sum of the parts.
 I am particularly interested in collective properties of **quantum systems** and I study these 
 **complex quantum systems in and out of equilibrium**.
 
- <br />
 ---
- <br />
 
+## Brief vita
 
+08/2022 - present: Assistant Professor: Statistical Physics Group, Centre for Fluid and Complex Systems,
+Coventry University, Coventry (UK).
+
+11/2020 - 07/2022: Lecturer and Reasearch Associate: Statistical Physics Group, Centre for Fluid and Complex Systems, Coventry University, Coventry (UK).
+
+11/2019 - 10/2020: Postdoctoral Researcher: Group for Dynamics in Correlated Quantum Matter, Max
+Planck Institute for the Physics of Complex Systems, Dresden (GER).
+
+10/2019: Visiting Professor: Universidade Federal do ABC, Santo André (BR).
+
+10/2017 - 09/2019: Postdoctoral Researcher: Statistical Physics Group, SISSA - International School for
+Advanced Studies, Trieste (IT).
+
+10/2014 - 09/2017: PhD in Physics: binational degree: Saarland University (GER) & University of Lorraine (FR).
+
+10/2012 - 07/2014 MSc in Physics: binational degree: Saarland University (GER) & University of Lorraine (FR).
+
+10/2009 - 08/2012: BSc in Physics: Saarland University (GER).
 
 .
 &nbsp;
