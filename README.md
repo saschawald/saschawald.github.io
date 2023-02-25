@@ -22,7 +22,7 @@
 ## Work with me
 
 Are you interested in quantum technologies and properties of complex quantum systems? 
-[Reach out to me]((https://saschawald.github.io/contact.html) - I am always happy to discuss new collaborations.
+[Reach out to me](https://saschawald.github.io/contact.html) - I am always happy to discuss new collaborations.
 
 Current positions:
 
