@@ -12,7 +12,7 @@
 ## Navigation
 [Publications](https://saschawald.github.io/publications.html) -
 [Current Research](https://saschawald.github.io/research.html) -
-[Contact details](https://saschawald.github.io/contact.html) -
+[Contact](https://saschawald.github.io/contact.html) -
 [Teaching](https://saschawald.github.io/teaching.html)
 
 
@@ -22,7 +22,7 @@
 ## Work with me
 
 Are you interested in quantum technologies and properties of complex quantum systems? 
-Then reach out to me - I am always happy to discuss new collaborations.
+[Reach out to me]((https://saschawald.github.io/contact.html) - I am always happy to discuss new collaborations.
 
 Current positions:
 
