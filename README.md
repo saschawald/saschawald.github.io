@@ -68,34 +68,33 @@ I am particularly interested in collective properties of **quantum systems** and
 
 ## Brief vita
 
-08/2022 - present: **Assistant Professor**: Statistical Physics Group, Centre for Fluid and Complex Systems,
+08/2022 - present:<br>
+ **Assistant Professor**: Statistical Physics Group, Centre for Fluid and Complex Systems,
 Coventry University, Coventry (UK).
 
-11/2020 - 07/2022: **Lecturer and Reasearch Associate**: Statistical Physics Group, Centre for Fluid and Complex Systems, Coventry University, Coventry (UK).
+11/2020 - 07/2022: **Lecturer and Reasearch Associate**: <br>
+Statistical Physics Group, Centre for Fluid and Complex Systems, Coventry University, Coventry (UK).
 
-11/2019 - 10/2020: **Postdoctoral Researcher**: Group for Dynamics in Correlated Quantum Matter, Max
-Planck Institute for the Physics of Complex Systems, Dresden (GER).
+11/2019 - 10/2020: **Postdoctoral Researcher**:<br>
+Group for Dynamics in Correlated Quantum Matter, Max Planck Institute for the Physics of Complex Systems, Dresden (GER).
 
-10/2019: **Visiting Professor**: Universidade Federal do ABC, Santo André (BR).
+10/2019: **Visiting Professor**:<br>
+Universidade Federal do ABC, Santo André (BR).
 
-10/2017 - 09/2019: **Postdoctoral Researcher**: Statistical Physics Group, SISSA - International School for
-Advanced Studies, Trieste (IT).
+10/2017 - 09/2019: **Postdoctoral Researcher**:<br>
+ Statistical Physics Group, SISSA - International School for Advanced Studies, Trieste (IT).
 
-10/2014 - 09/2017: **PhD in Physics**: binational degree: Saarland University (GER) & University of Lorraine (FR).
+10/2014 - 09/2017: **PhD in Physics**:<br>
+binational degree: Saarland University (GER) & University of Lorraine (FR).
 
-10/2012 - 07/2014: **MSc in Physics**: binational degree: Saarland University (GER) & University of Lorraine (FR).
+10/2012 - 07/2014: **MSc in Physics**:<br>
+binational degree: Saarland University (GER) & University of Lorraine (FR).
 
-10/2009 - 08/2012: **BSc in Physics**: Saarland University (GER).
+10/2009 - 08/2012: **BSc in Physics**:<br>
+Saarland University (GER).
 
 ---
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
 .
 &nbsp;
 &nbsp;
