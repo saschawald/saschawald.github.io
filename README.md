@@ -68,9 +68,8 @@ I am particularly interested in collective properties of **quantum systems** and
 
 ## Brief vita
 
-08/2022 - present:<br>
- **Assistant Professor**: Statistical Physics Group, Centre for Fluid and Complex Systems,
-Coventry University, Coventry (UK).
+08/2022 - present: **Assistant Professor**:<br>
+Statistical Physics Group, Centre for Fluid and Complex Systems, Coventry University, Coventry (UK).
 
 11/2020 - 07/2022: **Lecturer and Reasearch Associate**: <br>
 Statistical Physics Group, Centre for Fluid and Complex Systems, Coventry University, Coventry (UK).
