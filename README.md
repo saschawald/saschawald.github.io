@@ -53,8 +53,7 @@ Current positions:
 </div>
 
 I am a **theoretical physicist** interested in collective properties of **complex systems**.
-
-These systems are inspiring because of the variety of phenomena complex systems can describe, 
+Complex systems are inspiring due to the variety of phenomena they can describe, 
 reaching from migrating birds to sozialising humans, from the global climate to the human brain
 and even from city infrastructures to quantum computers.
 The common feature these examples share is that they represent systems that are made of 
