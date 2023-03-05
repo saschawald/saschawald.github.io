@@ -9,33 +9,34 @@
 
 *Entanglement in the Quantum Spherical Model -- a Review*<br>
 **SW**, R Arias, V Alba<br>
+submitted to EPJST<br>
 [arXiv:2302.05732](https://arxiv.org/abs/2302.05732)
 
 ---
 
 *Entanglement gap in 1D long-range quantum spherical models*<br>
 **SW**, R Arias, V Alba<br>
+submitted to J Phys A: Math Theor<br>
 [arXiv:2301.09143](https://arxiv.org/abs/2301.09143)
 
 ---
 
 *Stochastic Representation of the Quantum Quartic Oscillator*<br>
 Gennaro Tucci, Stefano De Nicola, **SW**, Andrea Gambassi<br>
-submitted to SciPost<br>
+accepted for publication in [SciPost Core](https://scipost.org/submissions/2211.01923v1/)<br>
 [arXiv:2211.01923](https://arxiv.org/abs/2211.01923)
 
 ---
 
 *Mathematical characterization of private and public immune repertoire sequences*<br>
 T Chou, **SW**, L Böttcher<br>
-submitted to SIAM J Appl Math<br>
+submitted to Bulletin of Mathematical Biology<br>
 [bioRxiv:2022.05.17.492232](https://www.biorxiv.org/content/10.1101/2022.05.17.492232v1)
 
 ---
 
 *Entanglement dynamics of a hard-core quantum gas during a Joule expansion*<br>
 F Ares, S Scopa, **SW**<br>
-submitted to J Phys A: Math Theor<br>
 [J Phys A: Math Theor 55 (2022):375301](https://iopscience.iop.org/article/10.1088/1751-8121/ac8209)<br>
 [arXiv:2204.01664](https://arxiv.org/abs/2204.01664)
 
