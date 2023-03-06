@@ -13,7 +13,7 @@
 ...
 
 ## Quantum Walks
-<img src="qw.png" alt="negativity" title="quantum walk" width="592" height="188" /> 
+<img src="qw.png" alt="negativity" title="quantum walk" width="592" height="101" /> 
 
 ...
 
