@@ -11,7 +11,7 @@
 
 ## Navigation
 [Publications](https://saschawald.github.io/publications.html) -
-[Current Research](https://saschawald.github.io/research.html) -
+[Research](https://saschawald.github.io/research.html) -
 [Contact](https://saschawald.github.io/contact.html) -
 [Teaching](https://saschawald.github.io/teaching.html)
 
