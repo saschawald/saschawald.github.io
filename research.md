@@ -1,8 +1,10 @@
-# Under construction
+# Research Themes
 
 ## Non equilibrium quantum systems
 
 ...
+
+---
 
 ## Entanglement in many-body quantum systems
 
@@ -12,11 +14,17 @@
 
 ...
 
+---
+
 ## Quantum Walks
 <img src="qw.png" alt="negativity" title="quantum walk" width="592" height="101" /> 
 
 ...
 
+---
+
 ## Quantum field theory
 
 ...
+
+---
