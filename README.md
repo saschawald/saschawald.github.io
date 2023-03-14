@@ -1,3 +1,8 @@
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
+
 # Welcome to my Homepage
 
 ## Dr rer nat Sascha Wald
@@ -92,6 +97,8 @@ binational degree: Saarland University (GER) & University of Lorraine (FR).
 Saarland University (GER).
 
 ---
+
+$$ \partial_t $$
 
 .
 &nbsp;
