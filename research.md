@@ -35,3 +35,4 @@
 |---------------|:-------:|
 21/22 | Machine Learning for Physicists|
 22/23 | Statistical Field Theory|
+|---------------|:-------:|
