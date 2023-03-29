@@ -13,10 +13,6 @@ submitted to PRE<br>
 [arXiv:2303,15978](https://arxiv.org/abs/2303.15978)
 
 
-<span style="font-family:Papyrus; font-size:2em;"> 
-*We investigate the influence of disorder on the spreading and entanglement properties of coined quantum walks. Specifically, we consider quantum walks on the line and explore the effects of quenched disorder in the coin operations. We find that coin disorder alters the usual ballistic transport properties of coined quantum walks considerably and yields an extremely slow dynamics with strong evidence for localization behavior. We investigate this slow dynamics by comparing different properties of the walker occupation probability with the standard Hadamard walk. We find that the walker distribution, and a number of properties associated with it, are significantly altered by the coin disorder. Special focus is given to the influence of coin disorder on entanglement properties. We observe that generically, coin disorder decreases the coin-walker entanglement. The behavior of the entanglement properties further supports the premise that coin disorder induces localization in coined quantum walks.*
-</span>
-
 ---
 
 *Entanglement in the Quantum Spherical Model -- a Review*<br>
