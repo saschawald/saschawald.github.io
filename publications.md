@@ -7,6 +7,14 @@
 
 ---
 
+*Coined Quantum Walks on the Line: Disorder, Entanglement and Localization*<br>
+LH Yao, **SW**<br>
+submitted to PRE<br>
+[arXiv:2303,15978](https://arxiv.org/abs/2303.15978)
+
+
+---
+
 *Entanglement in the Quantum Spherical Model -- a Review*<br>
 **SW**, R Arias, V Alba<br>
 submitted to EPJST<br>
@@ -22,7 +30,7 @@ submitted to J Phys A: Math Theor<br>
 ---
 
 *Stochastic Representation of the Quantum Quartic Oscillator*<br>
-Gennaro Tucci, Stefano De Nicola, **SW**, Andrea Gambassi<br>
+G Tucci, S De Nicola, **SW**, A Gambassi<br>
 accepted for publication in [SciPost Core](https://scipost.org/submissions/2211.01923v1/)<br>
 [arXiv:2211.01923](https://arxiv.org/abs/2211.01923)
 
