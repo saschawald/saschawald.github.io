@@ -31,7 +31,7 @@ submitted to J Phys A: Math Theor<br>
 
 *Stochastic Representation of the Quantum Quartic Oscillator*<br>
 G Tucci, S De Nicola, **SW**, A Gambassi<br>
-accepted for publication in [SciPost Core](https://scipost.org/submissions/2211.01923v1/)<br>
+[SciPost Phys. Core 6, 029 (2023)](https://scipost.org/SciPostPhysCore.6.2.029)
 [arXiv:2211.01923](https://arxiv.org/abs/2211.01923)
 
 ---
@@ -138,4 +138,8 @@ S Scopa, **SW**<br>
 **SW**, M Henkel<br>
 [J Stat Mech (2015):P07006](https://doi.org/10.1088/1742-5468/2015/07/P07006)<br>
 [arXiv:1503.06713](https://arxiv.org/abs/1503.06713)
+
+\begin{itemize}
+\item ...
+\end{itemize}
 
