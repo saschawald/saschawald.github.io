@@ -139,7 +139,4 @@ S Scopa, **SW**<br>
 [J Stat Mech (2015):P07006](https://doi.org/10.1088/1742-5468/2015/07/P07006)<br>
 [arXiv:1503.06713](https://arxiv.org/abs/1503.06713)
 
-\begin{itemize}
-\item ...
-\end{itemize}
 
