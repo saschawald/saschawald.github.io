@@ -31,7 +31,7 @@ accepted in J Phys A: Math Theor<br>
 
 *Stochastic Representation of the Quantum Quartic Oscillator*<br>
 G Tucci, S De Nicola, **SW**, A Gambassi<br>
-[SciPost Phys. Core 6, 029 (2023)](https://scipost.org/SciPostPhysCore.6.2.029)
+[SciPost Phys. Core 6, 029 (2023)](https://scipost.org/SciPostPhysCore.6.2.029)<br>
 [arXiv:2211.01923](https://arxiv.org/abs/2211.01923)
 
 ---
