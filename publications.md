@@ -24,7 +24,7 @@ submitted to EPJST<br>
 
 *Entanglement gap in 1D long-range quantum spherical models*<br>
 **SW**, R Arias, V Alba<br>
-submitted to J Phys A: Math Theor<br>
+accepted in J Phys A: Math Theor<br>
 [arXiv:2301.09143](https://arxiv.org/abs/2301.09143)
 
 ---
