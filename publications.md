@@ -6,10 +6,16 @@
 [Home](saschawald.github.io)
 
 ---
+*Active quantum flocks*<br>
+R Khasseh, **SW**, R Moessner, CA Weber, M Heyl<br>
+[arXiv:2308.01603](https://arxiv.org/abs/2308.01603)
+
+
+---
 
 *Coined Quantum Walks on the Line: Disorder, Entanglement and Localization*<br>
 LH Yao, **SW**<br>
-submitted to PRE<br>
+accepted in PRE<br>
 [arXiv:2303,15978](https://arxiv.org/abs/2303.15978)
 
 
@@ -17,21 +23,21 @@ submitted to PRE<br>
 
 *Entanglement in the Quantum Spherical Model -- a Review*<br>
 **SW**, R Arias, V Alba<br>
-submitted to EPJST<br>
+accepted in EPJST<br>
 [arXiv:2302.05732](https://arxiv.org/abs/2302.05732)
 
 ---
 
 *Entanglement gap in 1D long-range quantum spherical models*<br>
 **SW**, R Arias, V Alba<br>
-accepted in J Phys A: Math Theor<br>
+[J Phys A: Math Theor 56:245002 (2023)](https://iopscience.iop.org/article/10.1088/1751-8121/acd232)<br>
 [arXiv:2301.09143](https://arxiv.org/abs/2301.09143)
 
 ---
 
 *Stochastic Representation of the Quantum Quartic Oscillator*<br>
 G Tucci, S De Nicola, **SW**, A Gambassi<br>
-[SciPost Phys. Core 6, 029 (2023)](https://scipost.org/SciPostPhysCore.6.2.029)<br>
+[SciPost Phys. Core 6:029 (2023)](https://scipost.org/SciPostPhysCore.6.2.029)<br>
 [arXiv:2211.01923](https://arxiv.org/abs/2211.01923)
 
 ---
