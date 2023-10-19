@@ -18,7 +18,7 @@
 [Publications](https://saschawald.github.io/publications.html) -
 [Research](https://saschawald.github.io/research.html) -
 [Contact](https://saschawald.github.io/contact.html) -
-[Teaching](https://saschawald.github.io/teaching.html)
+[Teaching](https://saschawald.github.io/teaching.html) -
 [Positions](https://saschawald.github.io/positions.html)
 
 

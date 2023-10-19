@@ -13,5 +13,5 @@ will follow shortly
 
 ## PhD opportunities
 
-[(filled) PhD - Universal Aspects of Non-Equilibrium Quantum Dynamics](https://www.jobs.ac.uk/job/CXQ654/phd-studentship-universality-in-non-equilibrium-quantum-systems)
+[(filled to start Jan'24) PhD - Universal Aspects of Non-Equilibrium Quantum Dynamics](https://www.jobs.ac.uk/job/CXQ654/phd-studentship-universality-in-non-equilibrium-quantum-systems)
 
