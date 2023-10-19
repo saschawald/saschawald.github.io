@@ -19,6 +19,7 @@
 [Research](https://saschawald.github.io/research.html) -
 [Contact](https://saschawald.github.io/contact.html) -
 [Teaching](https://saschawald.github.io/teaching.html)
+[Positions](https://saschawald.github.io/positions.html)
 
 
 ---
@@ -37,10 +38,6 @@ For further details please contact sascha.wald@coventry.ac.uk
 
 Are you interested in quantum technologies and properties of complex quantum systems? 
 [Reach out to me](https://saschawald.github.io/contact.html) - I am always happy to discuss new collaborations.
-
-Current positions:
-
-[PhD - Universal Aspects of Non-Equilibrium Quantum Dynamics](https://www.jobs.ac.uk/job/CXQ654/phd-studentship-universality-in-non-equilibrium-quantum-systems)
 
 
 ---
