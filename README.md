@@ -24,8 +24,8 @@
 
 ---
 There are **2 fully funded PhD positions** available to work in the field of non-equilibrium quantum many-body systems.
-The adverts will follow shortly.
-Interested candidates should contact sascha.wald@coventry.ac.uk - positions can be filled before the advert is available.
+The adverts can be found [HERE](https://www.findaphd.com/phds/project/quantum-walks-on-complex-networks/?p165943) and [HERE](https://www.findaphd.com/phds/project/universality-in-quantum-disordered-systems-with-resetting/?p165940).
+Interested candidates should contact sascha.wald@coventry.ac.uk - positions can be filled swiftly.
 
  
 ## Work with me
