@@ -6,6 +6,13 @@
 [Home](saschawald.github.io)
 
 ---
+
+*Stochastic resetting in discrete-time quantum dynamics: steady states and correlations in few-qubit systems*<br>
+**SW**, LH Yao, T Platini, C Hooley, F Carollo<br>
+[arXiv:2410.11497](https://arxiv.org/abs/2410.11497)
+
+---
+
 *Active quantum flocks*<br>
 R Khasseh, **SW**, R Moessner, CA Weber, M Heyl<br>
 [arXiv:2308.01603](https://arxiv.org/abs/2308.01603)

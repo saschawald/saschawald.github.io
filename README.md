@@ -33,6 +33,7 @@ Are you interested in quantum technologies and properties of complex quantum sys
 ---
 
 ## Recent preprints:
+[arXiv:2410.11497](https://arxiv.org/abs/2410.11497)
 [arXiv:2308.01603](https://arxiv.org/abs/2308.01603)
 
 ---
@@ -90,7 +91,6 @@ Saarland University (GER).
 
 ---
 
-$$ \partial_t $$
 
 .
 &nbsp;
